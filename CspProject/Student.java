@@ -26,6 +26,7 @@ public class Student
         if(whichTest==3)
             test[2]=tScore;
         if(whichTest==4)
+        	
             test[3]=tScore;
         if(whichTest==5)
             test[4]=tScore;
